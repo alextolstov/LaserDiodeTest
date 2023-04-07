@@ -1,0 +1,12 @@
+C:\Test\LaserDiodeTest\LaserDiodeTest\obj\Debug\LaserDiodeTest.csproj.AssemblyReference.cache
+C:\Test\LaserDiodeTest\LaserDiodeTest\obj\Debug\LaserDiodeTest.csproj.SuggestedBindingRedirects.cache
+C:\Test\LaserDiodeTest\LaserDiodeTest\obj\Debug\LaserDiodeTest.MeasureForm.resources
+C:\Test\LaserDiodeTest\LaserDiodeTest\obj\Debug\LaserDiodeTest.TestForm.resources
+C:\Test\LaserDiodeTest\LaserDiodeTest\obj\Debug\LaserDiodeTest.Properties.Resources.resources
+C:\Test\LaserDiodeTest\LaserDiodeTest\obj\Debug\LaserDiodeTest.csproj.GenerateResource.cache
+C:\Test\LaserDiodeTest\LaserDiodeTest\obj\Debug\LaserDiodeTest.csproj.CoreCompileInputs.cache
+C:\Test\LaserDiodeTest\LaserDiodeTest\bin\Debug\LaserDiodeTest.exe.config
+C:\Test\LaserDiodeTest\LaserDiodeTest\bin\Debug\LaserDiodeTest.exe
+C:\Test\LaserDiodeTest\LaserDiodeTest\bin\Debug\LaserDiodeTest.pdb
+C:\Test\LaserDiodeTest\LaserDiodeTest\obj\Debug\LaserDiodeTest.exe
+C:\Test\LaserDiodeTest\LaserDiodeTest\obj\Debug\LaserDiodeTest.pdb
